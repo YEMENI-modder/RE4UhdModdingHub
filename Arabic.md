@@ -66,7 +66,7 @@ _قيد الإضافة._
 | الاسم | الوصف | الملف من قبل | رابط التحميل |
 |---|---|---|---|
 | **Master ITM and ETM** | تصليح مشاكل عدم ظهور ETS أو ITA | Keto | [تحميل](https://www.mediafire.com/file/wqkts08v56dygag/Flawless_Master_ITM_%2B_ETM_Update_5.rar/file) |
-| **Xfile+Xscar** | مهم لنسخ Re4Quad لعرض الوحوش والمابات | ؟ | [تحميل](https://www.mediafire.com/file/ln05hjl9yce8haa/Xfile%2BXscar.rar/file) |
+| **Xfile+Xscar** | مهم لنسخ Re4Quad لعرض الوحوش والمابات | JADERLINK | [تحميل](https://www.mediafire.com/file/ln05hjl9yce8haa/Xfile%2BXscar.rar/file) |
 | **Xfile+Xscar HD** | مهم لنسخ Re4Quad لعرض الوحوش والمابات — بدقة HD | YEMENI | [تحميل](https://www.mediafire.com/file/2fijuplkiej1uyy/Xfile%2BXcar_Hd_(without_Enemy).zip/file) |
 
 ---
