@@ -25,15 +25,19 @@
 
 | الاسم | الوصف | التجميعة من قبل | رابط التحميل |
 |---|---|---|---|
-| **RE4UHD ALL IN ONE TOOL** | تجميعة أدوات EXE وأدوات فك الملفات وغيرها بطريقة مرتبة | Player7z | [تحميل](https://www.mediafire.com/file/p3t9jm35yx9de58/RE4_UHD_ALL_IN_ONE_TOOLS%2BTutorials.rar/file) |
+| **RE4UHD ALL IN ONE TOOL** | تجميعة أدوات EXE وأدوات فك الملفات وغيرها بطريقة مرتبة | [Player7z](https://github.com/Player7z) | [تحميل](https://www.mediafire.com/file/p3t9jm35yx9de58/RE4_UHD_ALL_IN_ONE_TOOLS%2BTutorials.rar/file) |
 | **Son of Persia** | مجموعة أدوات لفك بعض صيغ الملفات مثل UDAS وLFS | Persia | كلمة مرور الأرشيف: `persia`<br>[تحميل](https://drive.google.com/file/d/1OCOmsxMWjVJhwQVlV1R1ez4HRBJTqeD_/view) |
+| **JADERLINK Tools** | تجميعة أدوات JADERLINK والتي فيها SMD، Re4Quad، RTP وغيرها | [JADERLINK](https://github.com/JADERLINK) | [فتح المستودعات](https://github.com/JADERLINK?tab=repositories) |
 
 ### أدوات تعديل Exe
 
 | الاسم | الوصف | المطوّر | الرابط |
 |---|---|---|---|
-| **RE4 Master Editor** | أداة تعديل bio4.exe بشكل ضخم — كل الأنظمة في مكان واحد | YEMENI | [رابط المستودع](https://github.com/YEMENI-modder/Re4-Master-Editor) |
-| **Ammo Stacking** | أداة تعديل دمج الرصاص والعلاجات | BNLOS | [تحميل](https://github.com/BNLOS/links/releases/download/AMMOSTACKing/AmmoStacking.7z) |
+| **RE4 Master Editor** | أداة تعديل bio4.exe بشكل ضخم — كل الأنظمة في مكان واحد | [YEMENI](https://github.com/YEMENI-modder) | [رابط المستودع](https://github.com/YEMENI-modder/Re4-Master-Editor) |
+| **Ammo Stacking** | أداة تعديل دمج الرصاص والعلاجات | [BNLOS](https://github.com/BNLOS) | [تحميل](https://github.com/BNLOS/links/releases/download/AMMOSTACKing/AmmoStacking.7z) |
+| **Ultimate.BIO4.Modifier.Tool** | أداة تعديل Exe — دمج الرصاص، تفعيل بعض الأكواد، تعديل CNS وغيرها | [BNLOS](https://github.com/BNLOS) | [تحميل](https://github.com/BNLOS/links/releases/download/UBIO4MTool/Ultimate.BIO4.Modifier.Tool.7z) |
+| **biocodertool** | أداة تعديل Exe وتفعيل بعض الأكواد القليلة | [BNLOS](https://github.com/BNLOS) | [تحميل](https://github.com/BNLOS/links/releases/download/BMDB/biocodertool.rar) |
+| **Ultimate Weapons-Items-Merchant Tool** | أداة Exe لتعديل التاجر والأسلحة والأسعار وأشياء كثيرة | [Player7z](https://github.com/Player7z) | [تحميل](https://www.nexusmods.com/residentevil4/mods/578?tab=files) |
 | **HxD Hex Editor** | محرر هكس لفحص وتعديل البايتات الخام في ملفات RE4 مباشرة | Maël Hörz | [الموقع الرسمي](https://mh-nexus.de/en/hxd/) |
 
 ### أدوات تعديل 3D
@@ -41,15 +45,16 @@
 | الاسم | الوصف | المطوّر | الرابط |
 |---|---|---|---|
 | **Blender** | برنامج نمذجة ثلاثي الأبعاد مفتوح المصدر — لاستعراض وتعديل الموديلات والشيدات | Blender Foundation | [الموقع الرسمي](https://www.blender.org/) |
+| **RE4-SCENARIO-SMD-TOOLS** | أداة تعديل SMD — تمديك تعدّل الماب | [JADERLINK](https://github.com/JADERLINK) | [رابط المستودع](https://github.com/JADERLINK/RE4-SCENARIO-SMD-TOOLS) |
 
 ### نسخ Re4Quad
 
 | الاسم | الوصف | المطوّر | الرابط |
 |---|---|---|---|
-| **Re4QuadRemake** | نسخة معدّلة ومحسّنة من Re4QuadExtremeEditor | YEMENI | [رابط المستودع](https://github.com/YEMENI-modder/Re4QuadRemake) |
-| **Re4QuadNewAge** | الجيل الجديد من Re4QuadExtremeEditor | JADERLINK | [رابط المستودع](https://github.com/JADERLINK/Re4QuadNewAge) |
-| **RE4QuadX** | نسخة معدّلة ومحسّنة من Re4QuadExtremeEditor | r3nzk | [رابط المستودع](https://github.com/r3nzk/Re4QuadX) |
-| **Re4QuadExtremeEditor** | النسخة الأصلية — تعديل الأعداء والآيتمز والإيفنتات | JADERLINK | [رابط المستودع](https://github.com/JADERLINK/Re4QuadExtremeEditor) |
+| **Re4QuadRemake** | نسخة معدّلة ومحسّنة من Re4QuadExtremeEditor | [YEMENI](https://github.com/YEMENI-modder) | [رابط المستودع](https://github.com/YEMENI-modder/Re4QuadRemake) |
+| **Re4QuadNewAge** | الجيل الجديد من Re4QuadExtremeEditor | [JADERLINK](https://github.com/JADERLINK) | [رابط المستودع](https://github.com/JADERLINK/Re4QuadNewAge) |
+| **RE4QuadX** | نسخة معدّلة ومحسّنة من Re4QuadExtremeEditor | [r3nzk](https://github.com/r3nzk) | [رابط المستودع](https://github.com/r3nzk/Re4QuadX) |
+| **Re4QuadExtremeEditor** | النسخة الأصلية — تعديل الأعداء والآيتمز والإيفنتات | [JADERLINK](https://github.com/JADERLINK) | [رابط المستودع](https://github.com/JADERLINK/Re4QuadExtremeEditor) |
 
 ### أدوات تعديل ملفات محددة
 
@@ -60,14 +65,17 @@ _قيد الإضافة._
 | الاسم | الوصف | من قبل | الرابط |
 |---|---|---|---|
 | **RE4Tweaks** | أهم DLL للعبة — يحسّن ويعدل ويضيف بعض الأشياء الجديدة | nipkownix + emoose | [رابط المستودع](https://github.com/nipkownix/re4_tweaks) |
+| **DLL raz0r** | من أفضل الـ DLLs وأعقدها — يخفي أشلي بأي منطقة، يقفل الأبواب بالمفاتيح، وأشياء كثيرة | Raz0rrrr | [تحميل](https://www.nexusmods.com/residentevil4/mods/32?tab=files&file_id=78) |
+| **Qingsheng DLL** | من أسهل وأبسط الـ DLLs — يمديك تعدل ليمت الأعداء وتزود الميموري وغيرها | Qingsheng | [تحميل](https://www.mediafire.com/file/1ydtz6b0w7cr5ho/Qingsheng_DLL.zip/file) |
+| **Kreed DLL** | من أغرب الـ DLLs وقليل استخدامه في المودات | Kreed | [تحميل](https://www.mediafire.com/file/10vvwzpq91ii9rq/DLL_KREED.zip/file) |
 
 ### أخرى
 
 | الاسم | الوصف | الملف من قبل | رابط التحميل |
 |---|---|---|---|
 | **Master ITM and ETM** | تصليح مشاكل عدم ظهور ETS أو ITA | Keto | [تحميل](https://www.mediafire.com/file/wqkts08v56dygag/Flawless_Master_ITM_%2B_ETM_Update_5.rar/file) |
-| **Xfile+Xscar** | مهم لنسخ Re4Quad لعرض الوحوش والمابات | JADERLINK | [تحميل](https://www.mediafire.com/file/ln05hjl9yce8haa/Xfile%2BXscar.rar/file) |
-| **Xfile+Xscar HD** | مهم لنسخ Re4Quad لعرض الوحوش والمابات — بدقة HD | YEMENI | [تحميل](https://www.mediafire.com/file/2fijuplkiej1uyy/Xfile%2BXcar_Hd_(without_Enemy).zip/file) |
+| **Xfile+Xscar** | مهم لنسخ Re4Quad لعرض الوحوش والمابات | [JADERLINK](https://github.com/JADERLINK) | [تحميل](https://www.mediafire.com/file/ln05hjl9yce8haa/Xfile%2BXscar.rar/file) |
+| **Xfile+Xscar HD** | مهم لنسخ Re4Quad لعرض الوحوش والمابات — بدقة HD | [YEMENI](https://github.com/YEMENI-modder) | [تحميل](https://www.mediafire.com/file/2fijuplkiej1uyy/Xfile%2BXcar_Hd_(without_Enemy).zip/file) |
 
 ---
 
@@ -88,8 +96,10 @@ _قيد الإضافة._
 
 شرح مرئي لخطوات تعديل الماب في RE4
 
+---
+
 لغة الشرح: العربية🇸🇦
-الشرح من قبل: **Hevilz**
+الشرح من قبل: **[Hevilz](https://youtube.com/@hevilz)**
 
 [▶ فتح الفيديو](https://youtu.be/hUQrWZ3m6_I)
 
@@ -102,10 +112,46 @@ _قيد الإضافة._
 
 شرح تعديل ال ESL وAEV وITA بفيديو واحد
 
+---
+
 لغة الشرح: العربية🇸🇦
-الشرح من قبل: **Evo**
+الشرح من قبل: **[Evo](https://youtube.com/@flexible_m)**
 
 [▶ فتح الفيديو](https://youtu.be/uId6s4Lva_0)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+[![RE4UHD - Modding Tutorial Part 2 - Lit file](https://img.youtube.com/vi/krcAw6wVocg/maxresdefault.jpg)](https://youtu.be/krcAw6wVocg)
+
+**RE4UHD - Modding Tutorial Part 2 - Lit file**
+
+شرح كيف تعدل الإضاءة وكيف تحط اللون الي تبيه
+
+---
+
+لغة الشرح: العربية🇸🇦
+الشرح من قبل: **[EVO](https://youtube.com/@flexible_m)**
+
+[▶ فتح الفيديو](https://youtu.be/krcAw6wVocg)
+
+</td>
+<td align="center" width="50%">
+
+[![RE4UHD: Hex Editor adding enemies, Weapon Power Modifier](https://img.youtube.com/vi/Tpyv_TkV74A/maxresdefault.jpg)](https://youtu.be/Tpyv_TkV74A)
+
+**RE4UHD: Hex Editor adding enemies, Weapon Power Modifier**
+
+شرح كيف تعدل قوة الأسلحة وتضيف عدو إضافة من HxD
+
+---
+
+لغة الشرح: العربية🇸🇦
+الشرح من قبل: **[EVO](https://youtube.com/@flexible_m)**
+
+[▶ فتح الفيديو](https://youtu.be/Tpyv_TkV74A)
 
 </td>
 </tr>
@@ -125,22 +171,22 @@ _قيد الإضافة._
 | الاسم | الوصف | لغة الشرح | الشرح من قبل | الرابط |
 |---|---|---|---|---|
 | **MR.CURIOUS TUTORIALS** | تجميعة شروحات Mr.Curious | الإنجليزية🇺🇸 | MR.CURIOUS | [فتح التجميعة](https://docs.google.com/document/d/1XWXl8naf8NZhV0k56cdAPYTOobgOcmVtHN1QYQnC7mA/edit?usp=drivesdk) |
-| **YEMENI TUTORIAL** | تجميعة شروحات Yemeni | العربية🇸🇦 | YEMENI | [فتح المستند](https://docs.google.com/document/d/1uASg-rRuvhThFsxCl8n-O5kD4C0VGIkS5pGss_VxoYQ/edit?usp=drivesdk) |
-| **Player7z TUTORIALS** | تجميعة شروحات Player7z | الإنجليزية🇺🇸 | Player7z | [فتح التجميعة](https://mega.nz/folder/l70jgYyK#0C-r8gCDrH7drUuprQouWA) |
+| **YEMENI TUTORIAL** | تجميعة شروحات Yemeni | العربية🇸🇦 | [YEMENI](https://github.com/YEMENI-modder) | [فتح المستند](https://docs.google.com/document/d/1uASg-rRuvhThFsxCl8n-O5kD4C0VGIkS5pGss_VxoYQ/edit?usp=drivesdk) |
+| **Player7z TUTORIALS** | تجميعة شروحات Player7z | الإنجليزية🇺🇸 | [Player7z](https://github.com/Player7z) | [فتح التجميعة](https://mega.nz/folder/l70jgYyK#0C-r8gCDrH7drUuprQouWA) |
 
 #### شرح بعض الأنظمة
 
 | الاسم | الوصف | لغة الشرح | الشرح من قبل | الرابط |
 |---|---|---|---|---|
-| **شرح AEV-ITA** | شرح نظام AEV-ITA بالكامل مع كل الخطوات والأقسام | العربية🇸🇦 | YEMENI | [فتح الشرح](https://docs.google.com/document/d/1DkunZEhQ2gEB382KDRst9cxiBObLl2hhlE0sW1u-klc/edit?usp=drivesdk) |
-| **AEV OPTION** | شرح نظام AEV OPTION بالكامل | العربية🇸🇦 | YEMENI | [فتح الشرح](https://docs.google.com/document/d/1TaA6WYtAPoxX9gW3h3W4v_KzwjjMEBNxlrzS2UDGF_s/edit?usp=drivesdk) |
+| **شرح AEV-ITA** | شرح نظام AEV-ITA بالكامل مع كل الخطوات والأقسام | العربية🇸🇦 | [YEMENI](https://github.com/YEMENI-modder) | [فتح الشرح](https://docs.google.com/document/d/1DkunZEhQ2gEB382KDRst9cxiBObLl2hhlE0sW1u-klc/edit?usp=drivesdk) |
+| **AEV OPTION** | شرح نظام AEV OPTION بالكامل | العربية🇸🇦 | [YEMENI](https://github.com/YEMENI-modder) | [فتح الشرح](https://docs.google.com/document/d/1TaA6WYtAPoxX9gW3h3W4v_KzwjjMEBNxlrzS2UDGF_s/edit?usp=drivesdk) |
 
 #### شرح ملفات محددة
 
 | الاسم | الوصف | لغة الشرح | الشرح من قبل | الرابط |
 |---|---|---|---|---|
-| **شرح تعديل OSD** | شرح تعديل OSD بالكامل وبالتفصيل | العربية🇸🇦 | YEMENI | [فتح الشرح](https://docs.google.com/document/d/1NB5d9bClErOeu9PSLeZ0C_wvUhzqUmmmDJJtSMki1ZE/edit?usp=drivesdk) |
-| **شرح تعديل SFD** | شرح تعديل SFD بالتفصيل | العربية🇸🇦 | YEMENI | [فتح الشرح](https://docs.google.com/document/d/1_05Tk3Rbqg72OG1pIc13r5T6zGmuKv1sYGdtFCSFuBU/edit?usp=drivesdk) |
+| **شرح تعديل OSD** | شرح تعديل OSD بالكامل وبالتفصيل | العربية🇸🇦 | [YEMENI](https://github.com/YEMENI-modder) | [فتح الشرح](https://docs.google.com/document/d/1NB5d9bClErOeu9PSLeZ0C_wvUhzqUmmmDJJtSMki1ZE/edit?usp=drivesdk) |
+| **شرح تعديل SFD** | شرح تعديل SFD بالتفصيل | العربية🇸🇦 | [YEMENI](https://github.com/YEMENI-modder) | [فتح الشرح](https://docs.google.com/document/d/1_05Tk3Rbqg72OG1pIc13r5T6zGmuKv1sYGdtFCSFuBU/edit?usp=drivesdk) |
 | **RE4UHD AEV Tool Tutorial** | شرح تعديل AEV وتعريف كل نوع | الإنجليزية🇺🇸 | MR.CURIOUS | [فتح الشرح](https://docs.google.com/document/d/1mSQ0LtigZ7s28Uiyx0mT2QZdhjXaXTxVmdcnSBCWGLM/edit?usp=drivesdk) |
 | **RE4UHD BIN Tool Tutorial** | شرح تعديل BIN وTpl | الإنجليزية🇺🇸 | MR.CURIOUS | [فتح الشرح](https://docs.google.com/document/d/1traCKr_Jz3gyU7Q9kMfEBUz2raQbKGbmEoE4JHhVWVQ/edit?usp=drivesdk) |
 | **RE4UHD DSE Tool Tutorial** | شرح تعديل DSE | الإنجليزية🇺🇸 | MR.CURIOUS | [فتح الشرح](https://docs.google.com/document/d/1HRHNPgkIanVmaa4PSbYtSF5DyUnOOprS96AAcRnT7WI/edit?usp=drivesdk) |
@@ -160,8 +206,8 @@ _قيد الإضافة._
 
 | الاسم | الوصف | لغة الشرح | الشرح من قبل | الرابط |
 |---|---|---|---|---|
-| **تركيب الأكواد** | شرح كيف تحط الأكواد والفرق بين Find and paste وChange to | العربية🇸🇦 | YEMENI | [فتح الشرح](https://docs.google.com/document/d/1YVixxSXSflhdMyi_Ki44knjugayBMLn3V2vlngZ1aCk/edit?usp=drivesdk) |
-| **شرح إضافة صوت جديد** | شرح كيف تضيف صوت جديد وأي الملفات تعدّلها | العربية🇸🇦 | YEMENI | [فتح الشرح](https://docs.google.com/document/d/1x4tQ5GrNWYVMHkaVJ0HnWIQVSGSITETi9EIcOVxbVto/edit?usp=drivesdk) |
+| **تركيب الأكواد** | شرح كيف تحط الأكواد والفرق بين Find and paste وChange to | العربية🇸🇦 | [YEMENI](https://github.com/YEMENI-modder) | [فتح الشرح](https://docs.google.com/document/d/1YVixxSXSflhdMyi_Ki44knjugayBMLn3V2vlngZ1aCk/edit?usp=drivesdk) |
+| **شرح إضافة صوت جديد** | شرح كيف تضيف صوت جديد وأي الملفات تعدّلها | العربية🇸🇦 | [YEMENI](https://github.com/YEMENI-modder) | [فتح الشرح](https://docs.google.com/document/d/1x4tQ5GrNWYVMHkaVJ0HnWIQVSGSITETi9EIcOVxbVto/edit?usp=drivesdk) |
 | **Swinging Lights & Effects** | شرح كيف تخلي الإضاءة والإفكتات تتحرك وتتدحرج | الإنجليزية🇺🇸 | MR.CURIOUS | [فتح الشرح](https://docs.google.com/document/d/1P8Jte0CICBIEq6ozayR_aLSR4ZEXQeWwEiStAsiTG8A/edit?usp=drivesdk) |
 
 ---
