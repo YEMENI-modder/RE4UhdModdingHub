@@ -25,7 +25,8 @@
 
 | Name | Description | Bundled by | Download link |
 |---|---|---|---|
-| **RE4UHD ALL IN ONE TOOL** | A neatly organized bundle of EXE tools, file extraction tools, and more | [Player7z](https://github.com/Player7z) | [Download](https://www.mediafire.com/file/p3t9jm35yx9de58/RE4_UHD_ALL_IN_ONE_TOOLS%2BTutorials.rar/file) |
+| **RE4UHD ALL IN ONE TOOL V1** | A neatly organized bundle of EXE tools, file extraction tools, and more | [Player7z](https://www.youtube.com/@Player-7z) | [Download](https://www.mediafire.com/file/p3t9jm35yx9de58/RE4_UHD_ALL_IN_ONE_TOOLS%2BTutorials.rar/file) |
+| **RE4UHD ALL IN ONE TOOL v5** | A neatly organized bundle of EXE tools, file extraction tools, and more | [Player7z](https://www.youtube.com/@Player-7z) | [Download](https://transfer.it/t/g7YYBushzbbL) |
 | **Son of Persia** | A set of tools for extracting some file formats such as UDAS and LFS | Persia | Archive password: `persia`<br>[Download](https://drive.google.com/file/d/1OCOmsxMWjVJhwQVlV1R1ez4HRBJTqeD_/view) |
 | **JADERLINK Tools** | A bundle of JADERLINK tools that includes SMD, Re4Quad, RTP, and more | [JADERLINK](https://github.com/JADERLINK) | [Open repositories](https://github.com/JADERLINK?tab=repositories) |
 
@@ -38,6 +39,7 @@
 | **Ultimate.BIO4.Modifier.Tool** | EXE editing tool — ammo stacking, enabling some codes, CNS editing, and more | [BNLOS](https://github.com/BNLOS) | [Download](https://github.com/BNLOS/links/releases/download/UBIO4MTool/Ultimate.BIO4.Modifier.Tool.7z) |
 | **biocodertool** | EXE editing tool with support for a small set of codes | [BNLOS](https://github.com/BNLOS) | [Download](https://github.com/BNLOS/links/releases/download/BMDB/biocodertool.rar) |
 | **Ultimate Weapons-Items-Merchant Tool** | EXE tool for editing the merchant, weapons, prices, and many other things | [Player7z](https://github.com/Player7z) | [Download](https://www.nexusmods.com/residentevil4/mods/578?tab=files) |
+| *Evolved Weapons-Items-Merchant Tool Beta** | Edit Weapon stats, upgrades, prices, properties, sizes, Merchant stock and more. | [Player7z](https://github.com/Player7z) | [Download](https://www.mediafire.com/file/f4oy98kle16db9x/Evolved_Weapons-Items-Merchant_Tool_Beta.rar/file) |
 | **HxD Hex Editor** | Hex editor for inspecting and editing raw bytes in RE4 files directly | Maël Hörz | [Official site](https://mh-nexus.de/en/hxd/) |
 
 ### 3D Modding Tools
