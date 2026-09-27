@@ -1,0 +1,31 @@
+# AEV-SFD
+
+**الوصف:** من AEV تتفعل كاتسين
+
+**Description:** Trigger cutscenes from AEV
+
+**Necessary Codes:**
+
+- [APPLY DLL QINGSHENG](apply_dll_qingsheng.md)
+
+**The code:**
+
+```
+Find : 2B6ACA
+Paste : E8 C1 4E F9 FF 80 79 35 EF 0F 82 41 FF FF FF 60 C6 41 3A 14 C7 41 3C 00 00 00 00 C6 41 45 01 C7 41 40 F6 76 6B 00 61 E9 24 FF FF FF 60 6A 00 C7 05 0F 00 40 01 73 66 64 00 68 00 00 40 01 B9 C0 94 C6 00 E8 BE 67 01 00 61 C3
+
+-
+
+Find : 2B6A15
+Paste : E9 B0 00 00 00
+
+-
+
+Find : 2B24CA
+Paste : 8B EC 56 8B 75 08 0F B6 4E 35 81 F9 EF 00 00 00 0F 82 B7 00 00 00 60 8B 15 3C 5F C0 00 0F B7 82 AC 4F 00 00 50 B9 D4 3C C6 00 E8 C7 D2 FF FF 0F B6 5E 35 81 EB C0 00 00 00 88 1D 0D 00 40 01 C6 46 34 02 83 EB 30 8D 84 18 C8 00 00 00 80 38 01 74 06 C6 00 01 61 EB 75 61 EB 79
+
+-
+
+Find : 2B2591
+Paste : E9 34 FF FF FF 90
+```

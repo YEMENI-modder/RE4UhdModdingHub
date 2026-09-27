@@ -1,0 +1,29 @@
+# AEV-EAR
+
+**الوصف:** هاذا الكود يخليك يمديك تربط EFF ب AEV (لا تسال ليه حاط EAR)
+
+**Description:** Links EFF with AEV
+
+**The code:**
+
+```
+D3 E0 09 45 EC F6 46 32 01 74 0F A1
+Change To
+EB 75 09 45 EC F6 46 32 01 74 0F A1
+
+-
+
+09 10 8A 4E 35 80 F9 02 75 0A 83 7E 40 00 0F 84
+Change To
+E9 14 03 00 00 80 F9 02 75 0A 83 7E 40 00 0F 84
+
+-
+
+Find : 002BA3D0
+Paste : 80 BE 8D 00 00 00 EB 75 06 F6 46 34 01 75 0A 09 10 8A 4E 35 E9 D3 FC FF FF 51 53 BB 10 0E 2E 10 31 C9 8A 8E 8C 00 00 00 C6 04 19 01 5B 59 EB DF
+
+-
+
+Find : 001FE960
+Paste : 80 F9 11 7C 05 80 F9 1D 7E 07 D3 E0 E9 7A FF FF FF 50 53 BB 10 0E 2E 10 31 C0 88 C8 80 3C 18 00 75 02 B1 00 C6 04 18 00 5B 58 EB DE
+```

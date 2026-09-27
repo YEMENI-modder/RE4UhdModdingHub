@@ -1,0 +1,39 @@
+# Event State Continuity Chain
+
+**الوصف:** يحفظ ال AEV حتى لو دخلت وطلعت
+
+**Description:** Saves AEV state when entering and exiting
+
+**Necessary Codes:**
+
+- [POINTER EDIT](../necessary/pointer_edit.md)
+- [APPLY DLL RAZ0R](apply_dll_raz0r.md)
+
+**The code:**
+
+```
+88 50 3A 89 50 40 5D C3 CC CC CC
+Change To
+88 50 3A 89 50 40 E9 E2 07 00 00
+
+-
+
+Find : 002B42D0
+Paste : 80 B8 84 00 00 00 DD 74 09 80 B8 84 00 00 00 4D 75 1E 51 6A 00 6A 00 F6 40 34 01 75 04 6A 01 EB 02 6A 00 8A 48 36 51 E8 60 D8 D4 FF 83 C4 10 59 5D C3
+
+-
+
+E8 5F 37 D4 FF B9 10 43 C6 00
+Change To
+EB 79 90 90 90 B9 10 43 C6 00
+
+-
+
+Find : 002C3FB8
+Paste : E8 E4 36 D4 FF E8 BE 31 44 00 E9 7B FF FF FF
+
+-
+
+Find : 00707180
+Paste : 50 53 51 52 56 57 8B 15 00 0E 2E 10 8B BA 38 CE 00 00 EB 74 90 31 DB 31 F6 83 C7 10 43 80 7F 7C 00 90 90 90 74 02 57 46 38 D8 74 08 81 C7 9C 00 00 00 EB E8 83 FE 00 74 48 8B BA 38 CE 00 00 83 C7 10 31 DB 8B 0C 24 90 8A 49 7C 90 90 90 81 7F 40 00 00 00 00 75 19 3A 4F 36 75 14 59 4E F6 41 34 01 75 06 80 49 34 01 EB 04 80 61 34 FE EB C4 43 38 D8 75 04 59 4E EB BB 81 C7 9C 00 00 00 EB CD 5F 5E 5A 59 5B 58 C3 83 FF 00 74 F4 8A 47 06 EB 83
+```
